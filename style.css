@@ -75,8 +75,8 @@ button {
 
 .button:hover,
 .button:active {
-  background-color: initial;
+  background-color: darkred;
   background-position: 0 0;
-  color: black;
+  color: white;
 }
 
